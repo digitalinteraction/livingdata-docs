@@ -18,7 +18,9 @@ Plug in power for each of the 2 docks using the white power blocks.
 
 ![](/assets/20180226_090213.jpg)
 
+Plug in USB for each of the 2 docks.
 
+![](/assets/20180226_090150.jpg)
 
 
 
