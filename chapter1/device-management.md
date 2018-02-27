@@ -35,9 +35,17 @@ Repeat until all envelopes have bands in them.
 
 ## Distribution of Devices \(collection by participants\)
 
+Take the box of envelopes and sign-out sheet to the distribution point.
 
+For each participant, locate their envelope and get a signature against the sheet to confirm receipt of the device.
+
+Envelopes left at the end return to the box of un-collected devices.
 
 ## Collection of Devices \(return by participants\)
 
+Print out the sign-in sheet for deployment group.
 
+For each participant, retrieve their device and get them to sign confirmation of returning it.
+
+Return all devices to the 'awaiting sync' box.
 
