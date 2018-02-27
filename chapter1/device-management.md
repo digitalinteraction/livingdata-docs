@@ -8,10 +8,10 @@ You should setup a workflow of multiple docks in a 'production line' style workf
 
 You should maintain the following boxes of devices:
 
-* Devices with data on waiting to sync.
-* Devices that are clear and ready to be used for deployment
-* Devices which have unknown problems and have failed for any reason during setup.
-* A box for each of the up-coming deployment groups that will be collected, which will include a range of envelopes with/without devices in them.
+* Devices with data on waiting to sync \(**INBOX**\).
+* Devices that are clear and ready to be used for deployment \(**OUTBOX**\).
+* Devices which have unknown problems and have failed for any reason during setup \(**ERROR**\).
+* A box for each of the up-coming deployment groups that will be collected, which will include a range of envelopes with/without devices in them. \(**GROUP X**\)
 * A box of devices which were ready to be collected but were not collected at the appropriate time.
 
 ## Preparation of Devices
