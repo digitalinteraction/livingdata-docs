@@ -1,3 +1,6 @@
 # Summary
 
-* [First Chapter](chapter1.md)
+* [Introduction](README.md)
+* [Data Collection](chapter1.md)
+  * [Pre-Course Setup](chapter1/test.md)
+
