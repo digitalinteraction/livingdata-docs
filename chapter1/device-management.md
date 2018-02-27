@@ -50,3 +50,7 @@ For each participant, retrieve their device and get them to sign confirmation of
 
 Return all devices to the 'awaiting sync' box.
 
+## Uploading Data
+
+Devices in the 'awaiting sync' box should be placed onto ANY dock.
+
