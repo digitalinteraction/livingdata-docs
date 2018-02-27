@@ -22,5 +22,9 @@ Plug in USB for each of the 2 docks.
 
 ![](/assets/20180226_090150.jpg)
 
+Position docks in front of Laptop for easy access.
+
+## ![](/assets/20180226_090127.jpg)Plug in Barcode Scanner
+
 
 
