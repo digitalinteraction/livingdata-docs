@@ -52,5 +52,7 @@ Return all devices to the 'awaiting sync' box.
 
 ## Uploading Data
 
-Devices in the 'awaiting sync' box should be placed onto ANY dock.
+Devices in the 'awaiting sync' box should be placed onto ANY dock. When placed on the dock it will upload and wipe the device. 
+
+Devices which are fully charged can be removed and placed in the 'ready to program' box to make room for more devices that need to be uploaded.
 
