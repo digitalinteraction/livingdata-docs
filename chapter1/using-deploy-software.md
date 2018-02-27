@@ -2,19 +2,6 @@
 
 ## Getting Started
 
-
-### Hardware
-
-For 3x laptops:
-
-1. Connect laptop to power.
-
-2. Connect 2x USB docks to power.
-
-3. Connect 2x USB docks to the computer over USB.
-
-4. Connect barcode scanner to the computer over USB.
-
 5. Verify that the laptop has a working internet connection at all times (otherwise the laptop will not be able to upload the data files, and it does not have much spare capacity).
 
 
