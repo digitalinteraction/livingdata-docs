@@ -7,19 +7,24 @@
 * C5 windowed envelopes for the entire participant cohort.
 * Alcohol wipes for cleaning sensors between deployments.
 
-## 1. Find Data
+### 1. User Data
 
 > A delivery group is the sub-group of students who will be collecting and returning their devices at the same time \(i.e. the students in a practical class\)
 
 * List of students \(email, student id, deliver group, collection time, return time\)
 
-
-
-## 2. Intake24 Integration
-
+### 2. Intake24 Integration
 
 
 
+### 3. Upload Intake24 Login Links
+
+1. Export user list from Intake24 including the user reference \(studentid\) and unique login link.
+2. Upload this CSV to MyLivingData.
+
+4. Send Emails
+
+Click the Send Emails button in the Living Data admin console to send introduction emails to all users.
 
 
 
