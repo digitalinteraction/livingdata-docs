@@ -9,6 +9,7 @@
 
 If the software is not already installed, it is available from: [https://openlab.ncl.ac.uk/gitlab/public-pages/ax3-deploy/](https://openlab.ncl.ac.uk/gitlab/public-pages/ax3-deploy/).  To install, click the *AX3 Deployment Tool Setup* link, and run the downloaded *setup.exe* program.  If told *Windows protected your PC* then click *More info* and *Run anyway* -- you will also need to install the *AX3 Driver* from the same site.
 
+> Sometime, updates will automatically be installed when starting the application. Just follow the boxes and allow it to install, and then it will start with the updates.
 
 ### Starting the software
 
