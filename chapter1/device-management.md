@@ -49,6 +49,10 @@ Print out the sign-in sheet for deployment group.
 
 For each participant, retrieve their device and get them to sign confirmation of returning it.
 
+**Remove each device from it's band and wipe with an alcohol wipe**.
+
+![](/assets/AX3 Quick start guide .png)
+
 Return all devices to the 'awaiting sync' box.
 
 **Devices that were previously in the 'awaiting collection' box for this group should be included into the box waiting to sync.**
@@ -57,7 +61,7 @@ Return all devices to the 'awaiting sync' box.
 
 ## Uploading Data
 
-Devices in the 'awaiting sync' box should be placed onto ANY dock. When placed on the dock it will upload and wipe the device.
+Devices in the 'awaiting sync' box should be placed onto ANY dock. When placed on the dock it will upload and wipe \(data\) the device.
 
 Devices which are fully charged can be removed and placed in the 'ready to program' box to make room for more devices that need to be uploaded.
 
