@@ -12,5 +12,13 @@ Each dock consists of the following components:
 
 ![](/assets/20180226_085954.jpg)
 
+## Plug in Docks
+
+Plug in power for each of the 2 docks using the white power blocks.
+
+![](/assets/20180226_090213.jpg)
+
+
+
 
 
