@@ -28,3 +28,9 @@ Position docks in front of Laptop for easy access.
 
 ![](/assets/20180226_090100.jpg)
 
+## Start Software
+
+Start the 'Deploy' application located on the desktop / start menu.
+
+
+
