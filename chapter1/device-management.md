@@ -25,10 +25,11 @@ At some point before each collection session, do the following:
 Once complete, follow this procedure:
 
 1. Take an envelope and scan into a dock \(through the window in the envelope.
-2. If a device is available, it will flash after a short period.
-3. Remove this device, then scan THE DEVICE.
-4. Place this device into a wristband and then place in the envelope.
-5. Place the envelope in the box.
+2. \(optional\) place a device from the 'ready to be deployed' bucket onto the dock, or use on already on the dock.
+3. If a device is available on the dock, it will flash after a short period.
+4. Remove this device, then scan THE DEVICE.
+5. Place this device into a wristband and then place in the envelope.
+6. Place the envelope in the box.
 
 Repeat until all envelopes have bands in them.
 
@@ -52,7 +53,7 @@ Return all devices to the 'awaiting sync' box.
 
 ## Uploading Data
 
-Devices in the 'awaiting sync' box should be placed onto ANY dock. When placed on the dock it will upload and wipe the device. 
+Devices in the 'awaiting sync' box should be placed onto ANY dock. When placed on the dock it will upload and wipe the device.
 
 Devices which are fully charged can be removed and placed in the 'ready to program' box to make room for more devices that need to be uploaded.
 
