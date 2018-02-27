@@ -26,5 +26,5 @@ Position docks in front of Laptop for easy access.
 
 ## ![](/assets/20180226_090127.jpg)Plug in Barcode Scanner
 
-
+![](/assets/20180226_090100.jpg)
 
