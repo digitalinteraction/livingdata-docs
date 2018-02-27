@@ -27,14 +27,14 @@ If the software is not already installed, it is available from: [https://openlab
 
 Double-click the *Deploy* icon from the desktop (or press the *Start* button and type `Deploy` to find the launch shortcut):
 
-![Deploy icon](images/launch-icon.png)
+![Deploy icon](assets/launch-icon.png)
 
 
 ### Interface Overview
 
 The user interface is split into several areas:
 
-![User interface](images/interface-areas.png)
+![User interface](assets/interface-areas.png)
 
 1. *Configuration setting*: This should be scanned in by the barcode reader, but can be typed if needed.
 
