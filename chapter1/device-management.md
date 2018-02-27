@@ -26,7 +26,7 @@ Once complete, follow this procedure:
 
 1. Take an envelope and scan into a dock \(through the window in the envelope.
 2. \(optional\) place a device from the 'ready to be deployed' bucket onto the dock, or use on already on the dock.
-3. If a device is available on the dock, it will flash after a short period.
+3. If a device is available on the dock, it will flash after a short period. If no device is available, use another dock or wait.
 4. Remove this device, then scan THE DEVICE.
 5. Place this device into a wristband and then place in the envelope.
 6. Place the envelope in the box.
