@@ -15,6 +15,22 @@ You should maintain the following boxes of devices:
 
 ## Distribution of Devices \(collection by participants\)
 
+At some point before each collection session, do the following:
+
+1. Print out the 'box labels' from the admin panel and attach to the front of an empty box.
+2. Print out 'registration list' PDF from the admin panel for this deployment group.
+3. Fold each one in half and place into an EMPTY envelope and place in the box.
+
+Once complete, follow this procedure:
+
+1. Take an envelope and scan into a dock \(through the window in the envelope.
+2. If a device is available, it will flash after a short period.
+3. Remove this device, then scan THE DEVICE.
+4. Place this device into a wristband and then place in the envelope.
+5. Place the envelope in the box.
+
+Repeat until all envelopes have bands in them.
+
 ## Collection of Devices \(return by participants\)
 
 
