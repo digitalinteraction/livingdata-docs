@@ -12,7 +12,7 @@ You should maintain the following boxes of devices:
 * Devices that are clear and ready to be used for deployment \(**OUTBOX**\).
 * Devices which have unknown problems and have failed for any reason during setup \(**ERROR**\).
 * A box for each of the up-coming deployment groups that will be collected, which will include a range of envelopes with/without devices in them. \(**GROUP X**\)
-* A box of devices which were ready to be collected but were not collected at the appropriate time.
+* A box of devices which were ready to be collected but were not collected at the appropriate time \(**WAITING**\).
 
 ## Preparation of Devices
 
