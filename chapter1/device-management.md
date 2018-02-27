@@ -51,6 +51,10 @@ For each participant, retrieve their device and get them to sign confirmation of
 
 Return all devices to the 'awaiting sync' box.
 
+**Devices that were previously in the 'awaiting collection' box for this group should be included into the box waiting to sync.**
+
+> At some point \(1 day\) after the group has been collected, use the Admin interface to list devices that are still with participants and send reminder emails.
+
 ## Uploading Data
 
 Devices in the 'awaiting sync' box should be placed onto ANY dock. When placed on the dock it will upload and wipe the device.
