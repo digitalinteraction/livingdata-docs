@@ -15,16 +15,14 @@
 
 ### 2. Intake24 Integration
 
-
+Upload user list to Intake24 to automatically generate accounts.
 
 ### 3. Upload Intake24 Login Links
 
 1. Export user list from Intake24 including the user reference \(studentid\) and unique login link.
 2. Upload this CSV to MyLivingData.
 
-4. Send Emails
+3. ### Send Emails
 
 Click the Send Emails button in the Living Data admin console to send introduction emails to all users.
-
-
 
