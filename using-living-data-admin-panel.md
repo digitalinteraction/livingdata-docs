@@ -47,5 +47,10 @@ You can print out the following documents:
 
   * For a specific deployment group, individual pages for each participant which should be inserted into an envelope. These documents are used to program activity sensors for participants.
 
+* Sign-out Sheet:
+  * Printable document for a deployment group that should be used to sign-out devices when they are being collected by participants.
+* Sign-In Sheet:
+  * Printable document for a deployment group that should be used to sing back in devices when they are being returned by participants.
+
 
 
