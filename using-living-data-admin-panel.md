@@ -33,6 +33,8 @@ Once participants are setup in the system using the steps above, you can initiat
 
 Just visit [https://mylivingdata.com/users/sendintro/1](https://mylivingdata.com/users/sendintro/1) in your browser once you have logged in. Emails wil only be sent once, independent on how many times you have visited this link.
 
+**DO NOT PRINT DUPLEX!**
+
 ## Print Functions
 
 We advise setting up your sync workflow before any deployment starts.
@@ -41,6 +43,9 @@ You can print out the following documents:
 
 * Box Labels:
   * Inidividual pages with deployment group information which can be used for labelling boxes of envelopes ready for collection.
-* 
+* Registration Documents:
+
+  * For a specific deployment group, individual pages for each participant which should be inserted into an envelope. These documents are used to program activity sensors for participants.
+
 
 
