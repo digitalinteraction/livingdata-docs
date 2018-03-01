@@ -6,5 +6,5 @@ This document is for administrators or teachers of the Living Data programme.
 
 If you are a participant, see this video:
 
-{% youtube src="https://www.youtube.com/watch?v=[aPHEJiXOzSY](https://www.youtube.com/embed/aPHEJiXOzSY)" %}{% endyoutube %}
+{% youtube src="https://www.youtube.com/watch?v=aPHEJiXOzSY" %}{% endyoutube %}
 
