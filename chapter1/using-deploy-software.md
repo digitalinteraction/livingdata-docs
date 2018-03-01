@@ -43,15 +43,15 @@ The status of each device is indicated by the device's LED colour:
 
 | LED Colour  | Status  | Notes  |
 |:------------|:--------|:-------|
-| <span style="font-color: black;">&#9676;&nbsp;White</span>  | Downloading  | The data from the device is downloading.  You must wait for the download to complete.  Afterwards, the device will be automatically cleared then enter the charging or charged category. |
-| <span style="font-color: cyan;">&#9679;&nbsp;Cyan</span>  | Recharging  | The device is cleared but not yet fully charged.  Wait until the device is fully charged. |
-| <span style="font-color: magenta;">&#9679;&nbsp;Magenta</span>  | Charged  | The is fully charged (and cleared).  This device can be configured now, or is ready to be removed for later configuration.  |
-| <span style="font-color: cyan;">&#9788;&nbsp;Flashing (Cyan/Off)</span>  | Outbox  | The device is configured.  Disconnect the flashing device, scan the barcode and place in the envelope. |
-| <span style="font-color: red;">&#9679;&nbsp;Red</span>  | Unexpected  | This device was not expected on the dock, as it has been configured for recording and that recording has not yet finished.  If you are certain that the device was configured in error, use *Device* / *Destroy Recording* to manually clear it.  The firmware may temporarily light the LED red while it is clearing or configuring.  |
-| <span style="font-color: blue;">&#9679;&nbsp;Blue</span>  | Error  | There was a problem with communicating with, or downloading from the device.  If it is a comms. error, press `F9`, `Y` to reset.  If it is a download error, check the drive has enough free space (waiting for uploads to complete may free-up capacity).  |
-| <span style="font-color: yellow;">&#9679;&nbsp;Yellow</span> / <span style="font-color: green;">&#9679;&nbsp;Green</span>  | USB Error  | This device is not communicating with the computer (but is powered or fully charged). Check the hub's connection and reconnect the device.  |
-| <span style="font-color: black;">&#9677;&nbsp;Fading Yellow / White</span>  | Unclassified  | This device has not been given a status by the software.  If this persists, try reconnecting the device, restarting the computer and ensuring the drivers are installed.  |
-| <span style="font-color: red;">&#9788;&nbsp;Flashing Red</span>  | Starting  | The device is starting.  Technically, either in a low-battery pre-charge state, or in the 'bootloader'.  If it persists and fails to start properly, then remove the device from circulation.  |
+| <span style="color: black;">&#9676;&nbsp;White</span>  | Downloading  | The data from the device is downloading.  You must wait for the download to complete.  Afterwards, the device will be automatically cleared then enter the charging or charged category. |
+| <span style="color: cyan;">&#9679;&nbsp;Cyan</span>  | Recharging  | The device is cleared but not yet fully charged.  Wait until the device is fully charged. |
+| <span style="color: magenta;">&#9679;&nbsp;Magenta</span>  | Charged  | The is fully charged (and cleared).  This device can be configured now, or is ready to be removed for later configuration.  |
+| <span style="color: cyan;">&#9788;&nbsp;Flashing (Cyan/Off)</span>  | Outbox  | The device is configured.  Disconnect the flashing device, scan the barcode and place in the envelope. |
+| <span style="color: red;">&#9679;&nbsp;Red</span>  | Unexpected  | This device was not expected on the dock, as it has been configured for recording and that recording has not yet finished.  If you are certain that the device was configured in error, use *Device* / *Destroy Recording* to manually clear it.  The firmware may temporarily light the LED red while it is clearing or configuring.  |
+| <span style="color: blue;">&#9679;&nbsp;Blue</span>  | Error  | There was a problem with communicating with, or downloading from the device.  If it is a comms. error, press `F9`, `Y` to reset.  If it is a download error, check the drive has enough free space (waiting for uploads to complete may free-up capacity).  |
+| <span style="color: yellow;">&#9679;&nbsp;Yellow</span> / <span style="font-color: green;">&#9679;&nbsp;Green</span>  | USB Error  | This device is not communicating with the computer (but is powered or fully charged). Check the hub's connection and reconnect the device.  |
+| <span style="color: black;">&#9677;&nbsp;Fading Yellow / White</span>  | Unclassified  | This device has not been given a status by the software.  If this persists, try reconnecting the device, restarting the computer and ensuring the drivers are installed.  |
+| <span style="color: red;">&#9788;&nbsp;Flashing Red</span>  | Starting  | The device is starting.  Technically, either in a low-battery pre-charge state, or in the 'bootloader'.  If it persists and fails to start properly, then remove the device from circulation.  |
 
 
 ## Operation: Download, Clearing and Recharging
