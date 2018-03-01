@@ -5,4 +5,5 @@
 * [Dock Setup](chapter1/dock-setup.md)
 * [Device Management](chapter1/device-management.md)
 * [Using Deploy Software](/chapter1/using-deploy-software.md)
+* [Using Living Data Admin Panel](using-living-data-admin-panel.md)
 
