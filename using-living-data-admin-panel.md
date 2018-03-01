@@ -10,20 +10,15 @@ As an administrator, you should have access to the Living Data web site, which i
 
 The system is designed to run independently of any other participant system, so participants need to be imported before any deployment begins.
 
-1. Import participants using a CSV file with the following headings: 
-   1. id - student identifier, or number. This must match the id imported into Intake24.
+1. [ ] Import participants using a CSV file with the following headings: 
+2. id - student identifier, or number. This must match the id imported into Intake24.
+3. firstname
+4. lastname
+5. email - email of participant so that we can send them password reset and introduction emails.
+6. group - some kind of identifier for the deployment group they are part of, can be anything as long as participants in the same group have the same value.
+7. collect - Collection time for this group \(i.e. the time at which the device should start recording data\)
 
-   2. firstname
-
-   3. lastname
-
-   4. email - email of participant so that we can send them password reset and introduction emails.
-
-   5. group - some kind of identifier for the deployment group they are part of, can be anything as long as participants in the same group have the same value.
-
-   6. collect - Collection time for this group \(i.e. the time at which the device should start recording data\)
-
-   7. return - Return time for this group \(i.e. the time at which the device should stop recording data\).
+return - Return time for this group \(i.e. the time at which the device should stop recording data\).
 
 ## Print Functions
 
