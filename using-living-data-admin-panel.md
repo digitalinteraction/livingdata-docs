@@ -31,9 +31,16 @@ The system is designed to run independently of any other participant system, so 
 
 Once participants are setup in the system using the steps above, you can initiate emailing them all with their introduction email, which includes a unique link for them to login.
 
-Just visit https://mylivingdata.com/users/sendintro/1 in your browser once you have logged in.
+Just visit [https://mylivingdata.com/users/sendintro/1](https://mylivingdata.com/users/sendintro/1) in your browser once you have logged in. Emails wil only be sent once, independent on how many times you have visited this link.
 
 ## Print Functions
 
+We advise setting up your sync workflow before any deployment starts.
+
+You can print out the following documents:
+
+* Box Labels:
+  * Inidividual pages with deployment group information which can be used for labelling boxes of envelopes ready for collection.
+* 
 
 
