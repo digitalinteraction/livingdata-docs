@@ -17,6 +17,9 @@ The system is designed to run independently of any other participant system, so 
 5. email - email of participant so that we can send them password reset and introduction emails.
 6. group - some kind of identifier for the deployment group they are part of, can be anything as long as participants in the same group have the same value.
 7. collect - Collection time for this group \(i.e. the time at which the device should start recording data\)
+8. [ ] Import participants into Intake24
+9. [ ] Export participant login links from Intake24
+10. [ ] Upload login links to Living Data
 
 return - Return time for this group \(i.e. the time at which the device should stop recording data\).
 
