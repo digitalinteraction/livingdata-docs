@@ -27,7 +27,7 @@ The system is designed to run independently of any other participant system, so 
 
 11. [ ] **Upload login links to Living Data**
 
-## Email Partipants
+## Email Participants
 
 Once participants are setup in the system using the steps above, you can initiate emailing them all with their introduction email, which includes a unique link for them to login.
 
@@ -48,9 +48,17 @@ You can print out the following documents:
   * For a specific deployment group, individual pages for each participant which should be inserted into an envelope. These documents are used to program activity sensors for participants.
 
 * Sign-out Sheet:
+
   * Printable document for a deployment group that should be used to sign-out devices when they are being collected by participants.
+
 * Sign-In Sheet:
   * Printable document for a deployment group that should be used to sing back in devices when they are being returned by participants.
 
+## Status List
 
+The status list shows the current status of all participants. You can use this list to identify devices that have not returned, participants who are currently wearing sensors and other useful information to aid in the workflow.
+
+To email a specific group of people, `filter` the list to display them, and then select `Export`
+
+Selecting the `email` export option allows the text to be pasted into an email client directly.
 
