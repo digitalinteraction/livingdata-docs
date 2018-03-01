@@ -6,6 +6,8 @@ As an administrator, you should have access to the Living Data web site, which i
 
 ## Reset Password
 
+Enter your administration email address into to website to receive a new login link.s
+
 ## Import Participants
 
 The system is designed to run independently of any other participant system, so participants need to be imported before any deployment begins.
@@ -20,10 +22,16 @@ The system is designed to run independently of any other participant system, so 
 8. return - Return time for this group \(i.e. the time at which the device should stop recording data\).
 
 9. [ ] Import participants into Intake24
+
 10. [ ] Export participant login links from Intake24
+
 11. [ ] **Upload login links to Living Data**
 
+## Email Partipants
 
+Once participants are setup in the system using the steps above, you can initiate emailing them all with their introduction email, which includes a unique link for them to login.
+
+Just visit https://mylivingdata.com/users/sendintro/1 in your browser once you have logged in.
 
 ## Print Functions
 
